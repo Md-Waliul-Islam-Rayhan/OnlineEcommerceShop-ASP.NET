@@ -1,4 +1,4 @@
-# OnlineEcommerceShop-ASP.NET
- This is a Online Ecommerce Shop Project using ASP .NET
+# OnlineEcommerceShop-ASP.NET-Core
+ This is a Online Ecommerce Shop Project using ASP .NET Core
 
 
